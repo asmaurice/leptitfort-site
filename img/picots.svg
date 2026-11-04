@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="22" cy="30" rx="4.2" ry="2.8" transform="rotate(25 22 30)"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="96" cy="16" rx="3" ry="3.6"/>
+  <ellipse fill="#f2b705" fill-opacity=".5" cx="168" cy="44" rx="4.6" ry="2.6" transform="rotate(-20 168 44)"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="218" cy="102" rx="3.4" ry="2.4" transform="rotate(40 218 102)"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="62" cy="86" rx="2.6" ry="2.6"/>
+  <ellipse fill="#f2b705" fill-opacity=".5" cx="132" cy="112" rx="4.4" ry="2.7" transform="rotate(10 132 112)"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="30" cy="160" rx="3.8" ry="2.4" transform="rotate(-35 30 160)"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="100" cy="190" rx="2.6" ry="3.4" transform="rotate(15 100 190)"/>
+  <ellipse fill="#f2b705" fill-opacity=".5" cx="184" cy="170" rx="4.8" ry="2.8" transform="rotate(30 184 170)"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="226" cy="222" rx="2.4" ry="2.4"/>
+  <ellipse fill="#002f6c" fill-opacity=".18" cx="150" cy="226" rx="3.4" ry="2.2" transform="rotate(-10 150 226)"/>
+</svg>
